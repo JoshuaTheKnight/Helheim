@@ -2,6 +2,9 @@
 
 Helheim is a console text-based dungeon crawler. You assume the role of a recently deceased character who is given an impossible task to achieve a second chance at life: kill a god.
 
+## V1.0.0 Details
+This is the initial launch of my game. Keep in mind that it is super unbalanced given I was on a deadline with college. I also have no plans do balance it at the moment. I am focusing on finals.
+
 ## Features
 
 ### Randomly Generated Character with a Randomly Generated Name and Randomly Generated Stats.
